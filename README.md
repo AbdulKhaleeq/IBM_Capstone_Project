@@ -1,1 +1,1 @@
-# IBM_Capstone_Project
+# IBM_Applied_Capstone
